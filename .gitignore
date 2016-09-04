@@ -1,0 +1,10 @@
+build/*
+dist/*
+nbproject/*
+Makefile
+.dep.inc
+*.diff
+*~
+.well-known
+.idea
+*.iml
